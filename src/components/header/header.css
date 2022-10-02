@@ -4,7 +4,7 @@
 }
 .header {
   background: #7ebdc2;
-  height: 100%;
+  height: calc(100vh -50px);
 }
 .img-ludo {
   width: 45rem;
