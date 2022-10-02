@@ -1,9 +1,11 @@
 .barnav {
     background: #BB4430;
+    height: 50px;
 }
 .navlink {
     background: #BB4430;
 }
-.navlink:hover {
-background: #7EBDC2;
+
+.active {
+    border-bottom: 2ps-x solid #7EBDC2;
 }
